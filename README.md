@@ -1,4 +1,3 @@
-# supreme-carnival
 # **This and that with Python**
 
 [Ilha do Corvo](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Ilha%20do%20Corvo.ipynb)
