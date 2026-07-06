@@ -1,5 +1,9 @@
 # **This and that with Python**
 
+[Rainfall Feb 2026](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/rainfall%20Feb%202026.ipynb)
+
+<img src="/plots/Rainfall Feb 2026.png" width="75%"/>
+
 [Ilha do Corvo](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Ilha%20do%20Corvo.ipynb)
 
 <img src="/plots/corvo.png" width="75%"/>
