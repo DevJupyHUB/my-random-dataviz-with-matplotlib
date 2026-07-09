@@ -1,5 +1,9 @@
 # **This and that with Python**
 
+[Sea ice cover](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/sea_ice_cover.ipynb)
+
+<img src="/plots/arctic_sea_ice_dark_bg.png" width="75%"/>
+
 [Rainfall Feb 2026](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/rainfall%20Feb%202026.ipynb)
 
 <img src="/plots/Rainfall Feb 2026.png" width="75%"/>
