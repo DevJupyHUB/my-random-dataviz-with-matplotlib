@@ -4,7 +4,7 @@
 
 <img src="/plots/tn_anomalies_june2026.png" width="75%"/>
 
-[Sea ice cover](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/sea_ice_cover.ipynb)
+[Arctic sea ice cover](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/sea_ice_cover.ipynb)
 
 <img src="/plots/arctic_sea_ice_dark_bg.png" width="75%"/>
 
@@ -16,7 +16,7 @@
 
 <img src="/plots/corvo.png" width="75%"/>
 
-[xmas_trees](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/xmas_trees.ipynb)
+[Xmas trees](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/xmas_trees.ipynb)
 
 <img src="/plots/Merry_Xmas.png" width="75%"/>
 
@@ -24,7 +24,7 @@
 
 <img src="/plots/city_grids.png" width="75%"/>
 
-[Beliefs](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Beliefs.ipynb)
+[Religious beliefs](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/Beliefs.ipynb)
 
 <img src="/plots/2025-06-30.png" width="75%"/>
 
