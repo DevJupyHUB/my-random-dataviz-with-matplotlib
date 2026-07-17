@@ -1,5 +1,9 @@
 # **This and that with Python**
 
+[Tropical nights anomaly](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/tn_anomaly_Jun2026.ipynb)
+
+<img src="/plots/tn_anomalies_june2026.png" width="75%"/>
+
 [Sea ice cover](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/sea_ice_cover.ipynb)
 
 <img src="/plots/arctic_sea_ice_dark_bg.png" width="75%"/>
