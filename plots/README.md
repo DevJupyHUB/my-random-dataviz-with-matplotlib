@@ -10,6 +10,6 @@
 | ------------- | ------------- |------------- |-------------- |
 | <img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/2025-06-30.png" width="250" height="250" />|<img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/Merry_Xmas.png" width="250" height="250" />|<img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/corvo.png" width="250" height="250" />| <img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/Rainfall Feb 2026.png" width="250" height="250" /> |
 
-| Arctic sea ice cover | Tropical nights anomaly |        |          |
+| Arctic sea ice cover | Tropical nights anomaly |   AOD     |          |
 | ------------- | ------------- |------------- |-------------- |
-| <img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/arctic_sea_ice_dark_bg.png" width="250" height="250" />|<img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/tn_anomalies_june2026.png" width="250" height="250" />||  |
+| <img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/arctic_sea_ice_dark_bg.png" width="250" height="250" />|<img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/tn_anomalies_june2026.png" width="250" height="250" />|<img src="https://github.com/DevJupyHUB/supreme-carnival/blob/main/plots/aod.gif" width="250" height="250" /> |
