@@ -1,5 +1,9 @@
 # **This and that with Python**
 
+[AOD](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/aod.ipynb)
+
+<img src="/plots/aod.gif" width="75%"/>
+
 [Tropical nights anomaly](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/tn_anomaly_Jun2026.ipynb)
 
 <img src="/plots/tn_anomalies_june2026.png" width="75%"/>
