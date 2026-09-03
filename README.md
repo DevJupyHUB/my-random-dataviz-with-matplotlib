@@ -1,5 +1,9 @@
 # **This and that with Python**
 
+[TCC](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/tcc.ipynb)
+
+<img src="/plots/tcc.png" width="75%"/>
+
 [AOD](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/aod.ipynb)
 
 <img src="/plots/aod.gif" width="75%"/>
