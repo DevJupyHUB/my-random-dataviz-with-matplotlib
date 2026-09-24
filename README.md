@@ -1,5 +1,9 @@
 # **This and that with Python**
 
+[Population change ](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/pop_change.ipynb)
+
+<img src="/plots/population_change.png" width="75%"/>
+
 [Sea surface temperature anomalies ](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/sst.ipynb)
 
 <img src="/plots/sst.png" width="75%"/>
