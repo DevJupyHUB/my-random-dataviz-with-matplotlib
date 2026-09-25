@@ -2,7 +2,7 @@
 
 [Population change ](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/pop_change.ipynb)
 
-<img src="/plots/population_change.png" width="75%"/>
+<img src="/plots/pop_change.gif" width="75%"/>
 
 [Sea surface temperature anomalies ](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/sst.ipynb)
 
